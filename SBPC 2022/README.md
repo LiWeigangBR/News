@@ -17,7 +17,9 @@ We propose a virtual panel of “**Advanced Artificial Intelligence Methodologie
 
 **Time**: 16:00-16:20, 29/07/2022 (GPRL) have a performance like the one obtained by neural networks. Likewise, their solutions are by order of magnitude easily understood. 
 
-**Bio:**!<img src="https://raw.githubusercontent.com/LiWeigangBR/News/main/SBPC%202022/photos/Alessandro.jpg" alt="image"/> Dr. Alessandro Leite is a researcher at INRIA, Paris-Saclay University, France. His research interests and expertise include machine learning, explainable AI methods, and neural networks applied to different domain problems.
+**Bio:**
+
+<img src="https://raw.githubusercontent.com/LiWeigangBR/News/main/SBPC%202022/photos/Alessandro.jpg" alt="image" width="65" height="65"/> Dr. Alessandro Leite is a researcher at INRIA, Paris-Saclay University, France. His research interests and expertise include machine learning, explainable AI methods, and neural networks applied to different domain problems.
 
 **2. Keynote speaker – Dr. Peng Wei, George Washington University, USA**
 
@@ -26,7 +28,10 @@ We propose a virtual panel of “**Advanced Artificial Intelligence Methodologie
 
 Learning-based or data-driven aviation system functions such as machine perception, prediction, and planning/control are showing powerful capabilities to handle uncertainty, improve computational efficiency, and enhance scalability. But many aviation systems are safety-critical and need proper certification. In this talk, the speaker will briefly introduce a multi-agent reinforcement learning based aircraft separation assurance function, and some potential approaches to verify or certify such a function.
 
-**Bio:** Dr. Peng Wei is an associate professor in the Department of Mechanical and Aerospace Engineering at the George Washington University, with courtesy appointments at Electrical and Computer Engineering Department and Computer Science Department. By contributing to the intersection of control, optimization, machine learning, and artificial intelligence, he and his team develop autonomy and certification tools for aviation, aeronautics and aerial robotics. His current focus is on safety, efficiency, and scalability of decision making systems in complex, uncertain and dynamic environments. He is leading the Intelligent Aerospace Systems Lab (IASL). Prof. Wei is an associate editor for AIAA Journal of Aerospace Information Systems. He serves as the chairman of the AIAA Air Transportation Systems Technical Committee. He received his Ph.D. degree in Aerospace Engineering from Purdue University in 2013 and bachelor degree in Control Theory from Tsinghua University in 2007. 
+**Bio:** 
+
+<img src="https://raw.githubusercontent.com/LiWeigangBR/News/main/SBPC%202022/photos/Peng.jpg" alt="image" width="65" height="65"/>
+Dr. Peng Wei is an associate professor in the Department of Mechanical and Aerospace Engineering at the George Washington University, with courtesy appointments at Electrical and Computer Engineering Department and Computer Science Department. By contributing to the intersection of control, optimization, machine learning, and artificial intelligence, he and his team develop autonomy and certification tools for aviation, aeronautics and aerial robotics. His current focus is on safety, efficiency, and scalability of decision making systems in complex, uncertain and dynamic environments. He is leading the Intelligent Aerospace Systems Lab (IASL). Prof. Wei is an associate editor for AIAA Journal of Aerospace Information Systems. He serves as the chairman of the AIAA Air Transportation Systems Technical Committee. He received his Ph.D. degree in Aerospace Engineering from Purdue University in 2013 and bachelor degree in Control Theory from Tsinghua University in 2007. 
 
 **3. Keynote speaker – Prof. Paulo C. G. Costa, George Mason University - GMU, USA**
 
@@ -37,6 +42,8 @@ The growing prominence of AI methods as a core aspect in the development of deci
 automated systems.
 
 **Bio:**
+
+<img src="https://raw.githubusercontent.com/LiWeigangBR/News/main/SBPC%202022/photos/Paulo.jpg" alt="image" width="65" height="65"/>
 Prof. Paulo Costa is the Director of the Center of Excellence in C4I & Cyber and Associate Chair for Graduate Studies and Research of the Dept. of Cyber Security Engineering at George Mason University. His research interests include applications of AI techniques to enhance security and safety of autonomous machines, multi-sensor data fusion, and systems engineering. His research portfolio includes grants on cybersecurity modeling and experimentation with AFRL, on explainable AI with DARPA, on cyber-physical systems with FRA-DOT and on security of automated manufacturing and supply chains with the US DOE’s Cybersecurity Manufacturing Innovation Institute.  Prof. Costa’s academic service includes participation in technical programs in several academic venues, as well as in review boards for NSF, National Academies of Engineering, and others. He is an IEEE Senior Member and a former two-term President of the International Society of Information Fusion (https://isif.org), where he currently serves at the Board of Directors. He is a former fighter pilot and recipient of the Brazilian Air Force’s Eduardo Gomes Medal for outstanding academic achievements.
 
 **4. Keynote speaker – Dr. Antonio Marcio Ferreira Crespo, McGill University, Canada**
@@ -47,6 +54,8 @@ Prof. Paulo Costa is the Director of the Center of Excellence in C4I & Cyber an
 Our conventional reality shall properly acknowledge the existence of social networks comprising from millions to billions of active members. And even before fully understanding the sociological and psychological impacts of such massive remote social medias hosted interactions, we now face the potential migration of these individuals towards a new (virtual?) reality named Metaverse. Within such scenario, the talk addresses some insights on how the existing AI algorithms featured in the social medias platforms (facial recognition, textual analysis, targeted advertising, language translation, news feed, etc.), and their biases might impact the construction and the existence of the upcoming Metaverse. 
 
 **Bio:**
+
+<img src="https://raw.githubusercontent.com/LiWeigangBR/News/main/SBPC%202022/photos/Antonio.jpg" alt="image" width="65" height="65"/>
 Dr. Antonio Crespo is a lecturer in the Applied AI program at McGill’s University School of Continuing Studies, founder and Director of the DreamerGate R&D Incorporated, and expert of the College Education Evaluation Commission (Province of Quebec Government). He received his Ph.D. degree in Information and Systems Engineering from Concordia University, his M.Sc. in Computer Science from the University of Brasilia, and graduated as the Valedictorian in the Brazilian Air Force Academy B.Sc. Aeronautical Sciences program. His main research interests lie on Applied Explainable Artificial Intelligence and Data Features Engineering (Climate Change, Health, Aviation), Automation and Autonomy, and Extended (Augmented-Virtual-Mixed) Reality ( http://lattes.cnpq.br/1206392878882581).
 
 **5. Coordinator and speaker – Prof. Li Weigang, University of Brasilia (UnB), Brazil
@@ -58,6 +67,8 @@ Dr. Antonio Crespo is a lecturer in the Applied AI program at McGill’s Univer
 This talk reports the recent R&D in Artificial Intelligence (AI) based on the achievements of learning and management by TransLab/UnB. The main **Topic**s invoke machine learning (ML) theory study and AI application in air transportation: 1) From Once Learning to Few-shot learning in multimodal information processing using Convolution Neural Networks based methods and Transformer based methods. 2) Using transfer learning to classify long unstructured texts with small amounts of labeled data from Brazilian Ministry of Science, Technology, and Innovation (MCTI). 3) Modeling Monte Carlo Tree Search (MCTS) approach for conflict detection and resolution (CD&R) in 4-dimensional trajectory-based operation (TBO). 
 
 **Bio:**
+
+<img src="https://raw.githubusercontent.com/LiWeigangBR/News/main/SBPC%202022/photos/Li.png" alt="image" width="65" height="65"/>
 Dr. Li Weigang is a professor, coordinator of TransLab and chair (2018-2022) of the Department of Computer Science (CIC) at the University of Brasilia (UnB), Brazil. In 1994, he received Ph.D. degree from the Aeronautics Institute of Technology (ITA), Brazil. Currently, He is IEEE senior member and a researcher from Brazilian National Council for Scientific and Technological Development (CNPq). His main research interest is Artificial Intelligence and its applications such as Intelligent Air Transportation and Natural Language Processing (NLP) with Machine Learning.
 
 **6. General discussion**
