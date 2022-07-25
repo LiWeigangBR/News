@@ -39,7 +39,7 @@ Learning-based or data-driven aviation system functions such as machine percepti
 
 **Bio:** 
 
-<img src="https://raw.githubusercontent.com/LiWeigangBR/News/main/SBPC%202022/photos/Peng.jpg" alt="image" width="70" height="75"/>
+<img src="https://raw.githubusercontent.com/LiWeigangBR/News/main/SBPC%202022/photos/Peng.jpg" alt="image" width="70" height="78"/>
 
 Dr. Peng Wei is an associate professor in the Department of Mechanical and Aerospace Engineering at the George Washington University, with courtesy appointments at Electrical and Computer Engineering Department and Computer Science Department. By contributing to the intersection of control, optimization, machine learning, and artificial intelligence, he and his team develop autonomy and certification tools for aviation, aeronautics and aerial robotics. His current focus is on safety, efficiency, and scalability of decision making systems in complex, uncertain and dynamic environments. He is leading the Intelligent Aerospace Systems Lab (IASL). Prof. Wei is an associate editor for AIAA Journal of Aerospace Information Systems. He serves as the chairman of the AIAA Air Transportation Systems Technical Committee. He received his Ph.D. degree in Aerospace Engineering from Purdue University in 2013 and bachelor degree in Control Theory from Tsinghua University in 2007. 
 
