@@ -3,20 +3,20 @@ News from 74RA Sociedade Brasileira para o Progresso da Ciência (SBPC)
 
 ![logo](https://user-images.githubusercontent.com/94637980/180798228-cc05be50-eaab-4bd3-9dee-5ac290aaff7d.jpg)
 
-74th SBPC Annual Meeting
+<center>74th SBPC Annual Meeting
 Panel Proposal (PN) - UnB 60 years
 
 ## Advanced Methodologies and Applications of Artificial Intelligence
-** (Metodologias e Aplicações Avançadas de Inteligência Artificial)
---16:00-18:00, July 29, 2022-- **
+**(Metodologias e Aplicações Avançadas de Inteligência Artificial)
+--16:00-18:00, July 29, 2022--**</center>
 
-** I. INTRODUCTION **
+**I. INTRODUCTION**
 
  The 74th Annual Meeting of the SBPC will be held in a hybrid format, between the 24th and 30th of July 2022, at the University of Brasília (UnB), with the theme "Science, Independence and National Sovereignty" and three focuses - “UnB 60 years”, “Darcy Ribeiro's Centenary” and “Independence Bicentennial”.
 
 We propose a virtual panel of “Advanced Artificial Intelligence Methodologies and Applications” with 5 keynote speakers: Dr. Antonio Crespo (AI and the shaping of new realities: what to expect from the Metaverse), McGill University, Canada; Dr. Peng Wei (AI Safety and Certification in Learning-based Aviation Systems), George Washington University, USA; Dr. Alessandro Leite (Explainable Reinforcement Learning through Genetic Programming), INRIA, Paris-Saclay University, France; Prof. Paulo Costa (Making Sense of AI and Its Applications in Different Domains of Discourse), George Mason University, USA; and Prof. Li Weigang (New achievements of Artificial Intelligence in learning and management), University of Brasilia, Brazil.)
 
-**II. KEYNOTE SPEAKERS AND TOPICS
+**II. KEYNOTE SPEAKERS AND TOPICS**
 
 2. Keynote speaker – Dr. Alessandro Leite, INRIA, Paris-Saclay University, France
 
