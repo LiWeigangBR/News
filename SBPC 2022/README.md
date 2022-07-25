@@ -1,5 +1,6 @@
 # News
 News from 74RA Sociedade Brasileira para o Progresso da Ciência (SBPC)
+![logo](https://user-images.githubusercontent.com/94637980/180798228-cc05be50-eaab-4bd3-9dee-5ac290aaff7d.jpg)
 
 74th SBPC Annual Meeting
 Panel Proposal (PN) - UnB 60 years
