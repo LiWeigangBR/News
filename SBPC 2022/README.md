@@ -6,7 +6,7 @@ News from 74RA Sociedade Brasileira para o Progresso da Ciência (SBPC)
 <center>74th SBPC Annual Meeting
 Panel Proposal (PN) - UnB 60 years
 
-## Advanced Methodologies and Applications of Artificial Intelligence
+## <span style="color: blue"> Advanced Methodologies and Applications of Artificial Intelligence</span>
 **(Metodologias e Aplicações Avançadas de Inteligência Artificial)
 --16:00-18:00, July 29, 2022--**</center>
 
