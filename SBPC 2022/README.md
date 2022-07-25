@@ -1,7 +1,7 @@
 # News
 News from 74RA Sociedade Brasileira para o Progresso da Ciência (SBPC)
 <p align="center">
-<img src="https://github.com/LiWeigangBR/News/tree/main/SBPC 202022/head.PNG" alt="Sublime's custom image"/>
+<img src="https://raw.githubusercontent.com/LiWeigangBR/News/main/SBPC%202022/head.PNG" alt="image"/>
 </p>
 
 <center>74th SBPC Annual Meeting
