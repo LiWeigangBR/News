@@ -1,6 +1,6 @@
 # News
 <p align="center">
-<img src="https://raw.githubusercontent.com/LiWeigangBR/News/main/SBPC%202022/head.PNG" alt="image"/>
+<img src="https://raw.githubusercontent.com/LiWeigangBR/News/main/SBPC%202022/photos/head.PNG" alt="image"/>
 </p>
 
 **I. INTRODUCTION**
@@ -17,11 +17,7 @@ We propose a virtual panel of “**Advanced Artificial Intelligence Methodologie
 
 **Time**: 16:00-16:20, 29/07/2022 (GPRL) have a performance like the one obtained by neural networks. Likewise, their solutions are by order of magnitude easily understood. 
 
-**Bio:**!
-
-[Alessandro](https://user-images.githubusercontent.com/94637980/180822066-9771a7cf-7d34-4319-a861-56fd18330853.jpg) 
-
-Dr. Alessandro Leite is a researcher at INRIA, Paris-Saclay University, France. His research interests and expertise include machine learning, explainable AI methods, and neural networks applied to different domain problems.
+**Bio:**!<img src="https://raw.githubusercontent.com/LiWeigangBR/News/main/SBPC%202022/photos/Alessandro.jpg" alt="image"/> Dr. Alessandro Leite is a researcher at INRIA, Paris-Saclay University, France. His research interests and expertise include machine learning, explainable AI methods, and neural networks applied to different domain problems.
 
 **2. Keynote speaker – Dr. Peng Wei, George Washington University, USA**
 
