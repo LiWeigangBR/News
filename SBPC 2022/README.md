@@ -11,11 +11,13 @@ We propose a virtual panel of “**Advanced Artificial Intelligence Methodologie
 
 <br />
 
-**II. KEYNOTE SPEAKERS AND TopicS**
+**II. KEYNOTE SPEAKERS AND TOPICS**
 
 **1. Keynote speaker – Dr. Alessandro Leite, INRIA, Paris-Saclay University, France**
 
 **Topic**: Explainable Reinforcement Learning through Genetic Programming
+
+Deep reinforcement learning policies have achieved considerable performance on various control problems. Nevertheless, they require significant computing resources during training. Likewise, they are often both difficult to interpret and reproduce. This talk will show that genetic programming-based reinforcement learning policies (GPRL) have a performance like the one obtained by neural networks. Likewise, their solutions are by order of magnitude easily understood. 
 
 **Time**: 16:00-16:20, 29/07/2022 (GPRL) have a performance like the one obtained by neural networks. Likewise, their solutions are by order of magnitude easily understood. 
 
