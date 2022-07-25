@@ -7,10 +7,10 @@ News from 74RA Sociedade Brasileira para o Progresso da Ciência (SBPC)
 Panel Proposal (PN) - UnB 60 years
 
 ## Advanced Methodologies and Applications of Artificial Intelligence
-**(Metodologias e Aplicações Avançadas de Inteligência Artificial)
---16:00-18:00, July 29, 2022--**
+** (Metodologias e Aplicações Avançadas de Inteligência Artificial)
+--16:00-18:00, July 29, 2022-- **
 
-**I. INTRODUCTION**
+** I. INTRODUCTION **
 
  The 74th Annual Meeting of the SBPC will be held in a hybrid format, between the 24th and 30th of July 2022, at the University of Brasília (UnB), with the theme "Science, Independence and National Sovereignty" and three focuses - “UnB 60 years”, “Darcy Ribeiro's Centenary” and “Independence Bicentennial”.
 
