@@ -7,5 +7,7 @@ News from TransLab activities
 
 ![sbpc](https://user-images.githubusercontent.com/94637980/180782041-c93348c3-b6ab-4891-93a2-25aa6dfde477.PNG)
 
+Link: https://www.youtube.com/watch?v=sZz8SPjMAc0
+
 [More information](https://github.com/LiWeigangBR/News/blob/main/SBPC%202022/README.md)
 
