@@ -16,8 +16,8 @@ We propose a virtual panel of “**Advanced Artificial Intelligence Methodologie
 **1. Keynote speaker – Dr. Alessandro Leite, INRIA, Paris-Saclay University, France**
 
 **Topic**: Explainable Reinforcement Learning through Genetic Programming
-[SBPC AI section 01 A Leite 20072022.pdf](https://github.com/LiWeigangBR/News/files/9223003/SBPC.AI.section.01.A.Leite.20072022.pdf)
 
+[SBPC AI section 01 A Leite 20072022.pdf](https://github.com/LiWeigangBR/News/files/9223003/SBPC.AI.section.01.A.Leite.20072022.pdf)
 
 **Time**: 16:00-16:20, 29/07/2022 (GPRL) have a performance like the one obtained by neural networks. Likewise, their solutions are by order of magnitude easily understood. 
 
@@ -35,6 +35,8 @@ Dr. Alessandro Leite is a researcher at INRIA, Paris-Saclay University, France. 
 
 **Topic**: AI Safety and Certification in Learning-based Aviation Systems
 
+[SBPC AI section 02 Peng Wei 29072022-min.pdf](https://github.com/LiWeigangBR/News/files/9223010/SBPC.AI.section.02.Peng.Wei.29072022-min.pdf)
+
 **Time**: 16:20-16:40, 29/07/2022
 
 Learning-based or data-driven aviation system functions such as machine perception, prediction, and planning/control are showing powerful capabilities to handle uncertainty, improve computational efficiency, and enhance scalability. But many aviation systems are safety-critical and need proper certification. In this talk, the speaker will briefly introduce a multi-agent reinforcement learning based aircraft separation assurance function, and some potential approaches to verify or certify such a function.
@@ -50,6 +52,8 @@ Dr. Peng Wei is an associate professor in the Department of Mechanical and Aer
 **3. Keynote speaker – Prof. Paulo C. G. Costa, George Mason University - GMU, USA**
 
 **Topic**: Making Sense of AI and Its Applications in Different Domains of Discourse
+
+
 
 **Time**: 16:40-17:00, 29/07/2022
 
@@ -68,6 +72,8 @@ Prof. Paulo Costa is the Director of the Center of Excellence in C4I & Cyber an
 
 **Topic**:  Artificial Intelligence and the shaping of new realities: what to expect from the Metaverse.
 
+[SBPC AI section 04 A Crespo 29072022.pdf](https://github.com/LiWeigangBR/News/files/9223025/SBPC.AI.section.04.A.Crespo.29072022.pdf)
+
 **Time**: 17:00-17:20, 29/07/2022
 
 Our conventional reality shall properly acknowledge the existence of social networks comprising from millions to billions of active members. And even before fully understanding the sociological and psychological impacts of such massive remote social medias hosted interactions, we now face the potential migration of these individuals towards a new (virtual?) reality named Metaverse. Within such scenario, the talk addresses some insights on how the existing AI algorithms featured in the social medias platforms (facial recognition, textual analysis, targeted advertising, language translation, news feed, etc.), and their biases might impact the construction and the existence of the upcoming Metaverse. 
@@ -84,6 +90,8 @@ Dr. Antonio Crespo is a lecturer in the Applied AI program at McGill’s Univer
 (email: weigang@unb.br)**
 
 **Topic**: New achievements of Artificial Intelligence in learning and management
+
+[SBPC AI section 05 Li Weigang 29072022.pdf](https://github.com/LiWeigangBR/News/files/9223020/SBPC.AI.section.05.Li.Weigang.29072022.pdf)
 
 **Time**: 17:20-17:40, 29/07/2022
 
