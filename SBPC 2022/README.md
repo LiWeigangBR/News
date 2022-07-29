@@ -16,6 +16,8 @@ We propose a virtual panel of “**Advanced Artificial Intelligence Methodologie
 **1. Keynote speaker – Dr. Alessandro Leite, INRIA, Paris-Saclay University, France**
 
 **Topic**: Explainable Reinforcement Learning through Genetic Programming
+[SBPC AI section 01 A Leite 20072022.pdf](https://github.com/LiWeigangBR/News/files/9223003/SBPC.AI.section.01.A.Leite.20072022.pdf)
+
 
 **Time**: 16:00-16:20, 29/07/2022 (GPRL) have a performance like the one obtained by neural networks. Likewise, their solutions are by order of magnitude easily understood. 
 
