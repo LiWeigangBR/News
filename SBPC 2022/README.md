@@ -35,7 +35,7 @@ Dr. Alessandro Leite is a researcher at INRIA, Paris-Saclay University, France. 
 
 **Topic**: AI Safety and Certification in Learning-based Aviation Systems
 
-[Slides](https://github.com/LiWeigangBR/News/blob/main/SBPC%202022/SBPC%20AI%20section%2002%20Peng%20Wei%2029072022-min.pdf):[SBPC AI section 02 Peng Wei 29072022-min.pdf](https://github.com/LiWeigangBR/News/files/9223010/SBPC.AI.section.02.Peng.Wei.29072022-min.pdf)
+[Slides](https://github.com/LiWeigangBR/News/blob/main/SBPC%202022/SBPC%20AI%20section%2002%20Peng%20Wei%2029072022-min.pdf): [SBPC AI section 02 Peng Wei 29072022-min.pdf](https://github.com/LiWeigangBR/News/files/9223010/SBPC.AI.section.02.Peng.Wei.29072022-min.pdf)
 
 **Time**: 16:20-16:40, 29/07/2022
 
@@ -91,7 +91,7 @@ Dr. Antonio Crespo is a lecturer in the Applied AI program at McGill’s Univer
 
 **Topic**: New achievements of Artificial Intelligence in learning and management
 
-[Slides](https://github.com/LiWeigangBR/News/blob/main/SBPC%202022/SBPC%20AI%20section%2005%20Li%20Weigang%2029072022.pdf):[SBPC AI section 05 Li Weigang 29072022.pdf](https://github.com/LiWeigangBR/News/files/9223020/SBPC.AI.section.05.Li.Weigang.29072022.pdf)
+[Slides](https://github.com/LiWeigangBR/News/blob/main/SBPC%202022/SBPC%20AI%20section%2005%20Li%20Weigang%2029072022.pdf): [SBPC AI section 05 Li Weigang 29072022.pdf](https://github.com/LiWeigangBR/News/files/9223020/SBPC.AI.section.05.Li.Weigang.29072022.pdf)
 
 **Time**: 17:20-17:40, 29/07/2022
 
