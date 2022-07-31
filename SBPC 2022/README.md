@@ -17,7 +17,7 @@ We propose a virtual panel of “**Advanced Artificial Intelligence Methodologie
 
 **Topic**: Explainable Reinforcement Learning through Genetic Programming
 
-[SBPC AI section 01 A Leite 20072022.pdf](https://github.com/LiWeigangBR/News/files/9223003/SBPC.AI.section.01.A.Leite.20072022.pdf)
+[Slides](https://github.com/LiWeigangBR/News/blob/main/SBPC%202022/SBPC%20AI%20section%2001%20A%20Leite%2020072022.pdf): [SBPC AI section 01 A Leite 20072022.pdf](https://github.com/LiWeigangBR/News/files/9223003/SBPC.AI.section.01.A.Leite.20072022.pdf)
 
 **Time**: 16:00-16:20, 29/07/2022 (GPRL) have a performance like the one obtained by neural networks. Likewise, their solutions are by order of magnitude easily understood. 
 
@@ -35,7 +35,7 @@ Dr. Alessandro Leite is a researcher at INRIA, Paris-Saclay University, France. 
 
 **Topic**: AI Safety and Certification in Learning-based Aviation Systems
 
-[SBPC AI section 02 Peng Wei 29072022-min.pdf](https://github.com/LiWeigangBR/News/files/9223010/SBPC.AI.section.02.Peng.Wei.29072022-min.pdf)
+[Slides](https://github.com/LiWeigangBR/News/blob/main/SBPC%202022/SBPC%20AI%20section%2002%20Peng%20Wei%2029072022-min.pdf):[SBPC AI section 02 Peng Wei 29072022-min.pdf](https://github.com/LiWeigangBR/News/files/9223010/SBPC.AI.section.02.Peng.Wei.29072022-min.pdf)
 
 **Time**: 16:20-16:40, 29/07/2022
 
@@ -72,7 +72,7 @@ Prof. Paulo Costa is the Director of the Center of Excellence in C4I & Cyber an
 
 **Topic**:  Artificial Intelligence and the shaping of new realities: what to expect from the Metaverse.
 
-[SBPC AI section 04 A Crespo 29072022.pdf](https://github.com/LiWeigangBR/News/files/9223025/SBPC.AI.section.04.A.Crespo.29072022.pdf)
+[Slides](https://github.com/LiWeigangBR/News/blob/main/SBPC%202022/SBPC%20AI%20section%2004%20A%20Crespo%2029072022.pdf):[SBPC AI section 04 A Crespo 29072022.pdf](https://github.com/LiWeigangBR/News/files/9223025/SBPC.AI.section.04.A.Crespo.29072022.pdf)
 
 **Time**: 17:00-17:20, 29/07/2022
 
@@ -91,7 +91,7 @@ Dr. Antonio Crespo is a lecturer in the Applied AI program at McGill’s Univer
 
 **Topic**: New achievements of Artificial Intelligence in learning and management
 
-[SBPC AI section 05 Li Weigang 29072022.pdf](https://github.com/LiWeigangBR/News/files/9223020/SBPC.AI.section.05.Li.Weigang.29072022.pdf)
+[Slides](https://github.com/LiWeigangBR/News/blob/main/SBPC%202022/SBPC%20AI%20section%2005%20Li%20Weigang%2029072022.pdf):[SBPC AI section 05 Li Weigang 29072022.pdf](https://github.com/LiWeigangBR/News/files/9223020/SBPC.AI.section.05.Li.Weigang.29072022.pdf)
 
 **Time**: 17:20-17:40, 29/07/2022
 
