@@ -72,7 +72,7 @@ Prof. Paulo Costa is the Director of the Center of Excellence in C4I & Cyber an
 
 **Topic**:  Artificial Intelligence and the shaping of new realities: what to expect from the Metaverse.
 
-[Slides](https://github.com/LiWeigangBR/News/blob/main/SBPC%202022/SBPC%20AI%20section%2004%20A%20Crespo%2029072022.pdf):[SBPC AI section 04 A Crespo 29072022.pdf](https://github.com/LiWeigangBR/News/files/9223025/SBPC.AI.section.04.A.Crespo.29072022.pdf)
+[Slides](https://github.com/LiWeigangBR/News/blob/main/SBPC%202022/SBPC%20AI%20section%2004%20A%20Crespo%2029072022.pdf): [SBPC AI section 04 A Crespo 29072022.pdf](https://github.com/LiWeigangBR/News/files/9223025/SBPC.AI.section.04.A.Crespo.29072022.pdf)
 
 **Time**: 17:00-17:20, 29/07/2022
 
